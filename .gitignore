@@ -1,0 +1,16 @@
+# Ignore virtual environment
+myenv/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore IDE or editor files (optional)
+.vscode/
+.idea/
+
+# Ignore output files (if you create them)
+*.txt
+*.pdf
