@@ -10,3 +10,9 @@
 - Saves the extracted text in `.txt` format
 - Easy-to-use command-line interface
 - Supports multiple languages
+
+## Acknowledgements
+
+- [Tesseract OCR](https://github.com/tesseract-ocr/tesseract)
+    
+- [pytesseract](https://github.com/madmaze/pytesseract)
